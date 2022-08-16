@@ -33,7 +33,7 @@
                 <repo.server.protocol>http</repo.server.protocol>
                 <repo.server.root>172.26.223.199:8081/</repo.server.root>
                 <repo.path>repository</repo.path>
-                <repo.name>apigee-</repo.name>
+                <repo.name>apigee_</repo.name>
                 <scmUsername/>
                 <scmPassword/>
 
